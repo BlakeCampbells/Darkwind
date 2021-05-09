@@ -1,0 +1,22 @@
+{
+    "name": "darkwind",
+    "publisher": "BlakeDev",
+    "displayName": "Darkwind",
+    "description": "A dark theme using Tailwind colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkwind",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkwind-color-theme.json"
+            }
+        ]
+    }
+}
