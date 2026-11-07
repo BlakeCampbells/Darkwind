@@ -57,11 +57,37 @@ The main files are:
 - [`package.json`](package.json): extension metadata, VS Code compatibility, and theme registration.
 - [`.vscode/launch.json`](.vscode/launch.json): configuration for previewing the theme locally.
 
+### Validation and packaging
+
+Release tooling requires Node.js 22 or later and npm. This is separate from the VS Code version required to use the theme.
+
+Run the theme checks without installing dependencies:
+
+```sh
+npm test
+```
+
+The checks validate theme registration, color values, scope selectors, font styles, overlay transparency, and indentation guide compatibility.
+
+Install the pinned packaging tool, inspect the files that will ship, and build a VSIX:
+
+```sh
+npm ci
+npm run package:contents
+npm run package
+```
+
+Packaging runs the checks first and creates a local VSIX using the version in `package.json`. Before publishing a new release, review the theme in the Extension Development Host, update the version in `package.json`, and record the release in `CHANGELOG.md`.
+
 ## Contributing
 
 To report hard-to-read syntax or unexpected colors, [open an issue](https://github.com/BlakeCampbells/Darkwind/issues) with the language, a small code sample, and a screenshot.
 
 Pull requests are welcome. Describe the colors or scopes you changed and include before-and-after screenshots so the changes are easy to review.
+
+## License
+
+Darkwind is available under the [MIT License](LICENSE).
 
 ## Resources
 

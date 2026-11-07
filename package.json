@@ -3,7 +3,7 @@
     "publisher": "BlakeDev",
     "displayName": "Darkwind",
     "description": "A dark Visual Studio Code theme inspired by Tailwind's color palette",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "engines": {
         "vscode": "^1.56.0"
