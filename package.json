@@ -2,8 +2,9 @@
     "name": "darkwind",
     "publisher": "BlakeDev",
     "displayName": "Darkwind",
-    "description": "A dark theme using Tailwind colors",
+    "description": "A dark Visual Studio Code theme inspired by Tailwind's color palette",
     "version": "1.0.1",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -11,9 +12,27 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "dark",
+        "theme",
+        "tailwind",
+        "syntax highlighting"
+    ],
+    "homepage": "https://github.com/BlakeCampbells/Darkwind#readme",
+    "bugs": {
+        "url": "https://github.com/BlakeCampbells/Darkwind/issues"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/BlakeCampbells/Darkwind"
+    },
+    "scripts": {
+        "test": "node --test",
+        "package": "npm test && vsce package --no-dependencies",
+        "package:contents": "vsce ls --no-dependencies"
+    },
+    "devDependencies": {
+        "@vscode/vsce": "4.1.0"
     },
     "contributes": {
         "themes": [
