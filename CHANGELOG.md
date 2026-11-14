@@ -2,6 +2,21 @@
 
 Notable changes to Darkwind are recorded here.
 
+## [1.0.3] - 2026-11-14
+
+### Changed
+
+- Sharpened the existing two-wave icon and recolored it with Darkwind's navy, cyan, and blue.
+- Matched the Marketplace banner to the navy editor background.
+- Replaced the README's older screenshots with fresh VS Code captures of HTML, JavaScript, and Ruby.
+
+### Added
+
+- A visual palette and a color reference with exact hex values and their editor and syntax roles, included in the Marketplace overview.
+- Packaged screenshot and palette PNGs, plus reproducible source examples in the repository.
+
+The theme's editor and syntax color definitions are unchanged.
+
 ## [1.0.2] - 2026-11-07
 
 ### Fixed

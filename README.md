@@ -23,17 +23,48 @@ You can also select the theme in your `settings.json`:
 
 ## Screenshots
 
+Captured in VS Code with Darkwind applied, using Menlo at 15 px. The examples show the theme's actual syntax colors; no colors were added to the screenshots.
+
 ### Component HTML
 
-<img width="860" alt="Component HTML syntax highlighting in Darkwind" src="https://github.com/user-attachments/assets/a1e6b1a0-206b-4af1-a031-79045361409f">
+Cyan tags, coral attributes, violet strings, and muted italic comments on the navy editor background.
+
+![HTML in VS Code with Darkwind: cyan tags, coral attributes, and violet strings](docs/screenshots/html.png)
 
 ### JavaScript
 
-<img width="772" alt="JavaScript syntax highlighting in Darkwind" src="https://github.com/user-attachments/assets/72b2b68d-52d4-41a0-a2f0-668643bd4a8b">
+Yellow keywords, blue functions, emerald types and constants, and cyan variables. Semantic highlighting is enabled by the theme.
+
+![JavaScript in VS Code with Darkwind: classes, functions, variables, and string interpolation](docs/screenshots/javascript.png)
 
 ### Ruby
 
-<img width="642" alt="Ruby syntax highlighting in Darkwind" src="https://github.com/user-attachments/assets/cfb963ac-0c91-4063-a76d-9b28f94e69aa">
+Classes, methods, symbols, numbers, and string interpolation in a compact Ruby example.
+
+![Ruby in VS Code with Darkwind: a palette class, symbols, and string interpolation](docs/screenshots/ruby.png)
+
+## Color palette
+
+![Darkwind palette with twelve labeled swatches and exact hexadecimal values](docs/screenshots/palette.png)
+
+These are the main colors defined in Darkwind. Language-specific TextMate rules and semantic highlighting can change which color a particular token receives.
+
+| Color | Hex | Main uses |
+| --- | --- | --- |
+| Navy | `#111827` | Editor and sidebar background |
+| Foreground | `#D4D4D4` | Default text and punctuation |
+| Comment gray | `#757575` | Comments |
+| Cyan | `#A5F3FC` | Variables and HTML tags |
+| Blue | `#60A5FA` | Functions and methods |
+| Violet | `#A78BFA` | Strings |
+| Coral | `#FF7878` | Numbers, constants, attributes |
+| Yellow | `#FFEB82` | Keywords and control flow |
+| Emerald | `#059669` | Types, classes, language variables |
+| Lime | `#20FF00` | Many operators, symbols, escapes |
+| UI blue | `#007ACC` | Status bar background |
+| Focus amber | `#D47700` | Focus borders |
+
+The icon uses the same navy, cyan, and blue. The theme color definitions are unchanged in this release.
 
 ## Development
 

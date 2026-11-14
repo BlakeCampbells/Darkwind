@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="530" viewBox="0 0 1440 530">
+<rect width="1440" height="530" fill="#111827"/>
+<text x="42" y="55" fill="#d4d4d4" font-family="Arial" font-size="28" font-weight="bold">Darkwind palette</text>
+<text x="42" y="87" fill="#a5f3fc" font-family="Arial" font-size="18">A navy canvas. Colorful syntax. Values taken directly from the theme.</text>
+<rect x="42" y="120" width="196" height="96" rx="8" fill="#111827" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="42" y="246" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Navy</text>
+<text x="42" y="273" fill="#a5f3fc" font-family="Arial" font-size="18">#111827</text>
+<rect x="274" y="120" width="196" height="96" rx="8" fill="#d4d4d4" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="274" y="246" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Foreground</text>
+<text x="274" y="273" fill="#a5f3fc" font-family="Arial" font-size="18">#D4D4D4</text>
+<rect x="506" y="120" width="196" height="96" rx="8" fill="#757575" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="506" y="246" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Comment gray</text>
+<text x="506" y="273" fill="#a5f3fc" font-family="Arial" font-size="18">#757575</text>
+<rect x="738" y="120" width="196" height="96" rx="8" fill="#a5f3fc" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="738" y="246" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Cyan</text>
+<text x="738" y="273" fill="#a5f3fc" font-family="Arial" font-size="18">#A5F3FC</text>
+<rect x="970" y="120" width="196" height="96" rx="8" fill="#60a5fa" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="970" y="246" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Blue</text>
+<text x="970" y="273" fill="#a5f3fc" font-family="Arial" font-size="18">#60A5FA</text>
+<rect x="1202" y="120" width="196" height="96" rx="8" fill="#a78bfa" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="1202" y="246" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Violet</text>
+<text x="1202" y="273" fill="#a5f3fc" font-family="Arial" font-size="18">#A78BFA</text>
+<rect x="42" y="317" width="196" height="96" rx="8" fill="#ff7878" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="42" y="443" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Coral</text>
+<text x="42" y="470" fill="#a5f3fc" font-family="Arial" font-size="18">#FF7878</text>
+<rect x="274" y="317" width="196" height="96" rx="8" fill="#ffeb82" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="274" y="443" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Yellow</text>
+<text x="274" y="470" fill="#a5f3fc" font-family="Arial" font-size="18">#FFEB82</text>
+<rect x="506" y="317" width="196" height="96" rx="8" fill="#059669" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="506" y="443" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Emerald</text>
+<text x="506" y="470" fill="#a5f3fc" font-family="Arial" font-size="18">#059669</text>
+<rect x="738" y="317" width="196" height="96" rx="8" fill="#20ff00" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="738" y="443" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Lime</text>
+<text x="738" y="470" fill="#a5f3fc" font-family="Arial" font-size="18">#20FF00</text>
+<rect x="970" y="317" width="196" height="96" rx="8" fill="#007acc" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="970" y="443" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">UI blue</text>
+<text x="970" y="470" fill="#a5f3fc" font-family="Arial" font-size="18">#007ACC</text>
+<rect x="1202" y="317" width="196" height="96" rx="8" fill="#d47700" stroke="#d4d4d4" stroke-opacity="0.2"/>
+<text x="1202" y="443" fill="#d4d4d4" font-family="Arial" font-size="20" font-weight="bold">Focus amber</text>
+<text x="1202" y="470" fill="#a5f3fc" font-family="Arial" font-size="18">#D47700</text>
+</svg>
