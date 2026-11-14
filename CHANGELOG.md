@@ -8,7 +8,7 @@ Notable changes to Darkwind are recorded here.
 
 - Sharpened the existing two-wave icon and recolored it with Darkwind's navy, cyan, and blue.
 - Matched the Marketplace banner to the navy editor background.
-- Replaced the README's older screenshots with fresh VS Code captures of HTML, JavaScript, and Ruby.
+- Replaced the README's older screenshots with five fresh VS Code captures of HTML, JavaScript, Ruby, Python, and TypeScript.
 
 ### Added
 

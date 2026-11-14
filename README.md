@@ -43,6 +43,18 @@ Classes, methods, symbols, numbers, and string interpolation in a compact Ruby e
 
 ![Ruby in VS Code with Darkwind: a palette class, symbols, and string interpolation](docs/screenshots/ruby.png)
 
+### Python
+
+Type annotations, a dataclass, control flow, and formatted strings in a small palette lookup.
+
+![Python in VS Code with Darkwind: a dataclass, type annotations, and formatted strings](docs/screenshots/python.png)
+
+### TypeScript
+
+Interfaces, literal types, generics, and typed collections with semantic highlighting enabled.
+
+![TypeScript in VS Code with Darkwind: interfaces, generics, and a typed color palette](docs/screenshots/typescript.png)
+
 ## Color palette
 
 ![Darkwind palette with twelve labeled swatches and exact hexadecimal values](docs/screenshots/palette.png)
