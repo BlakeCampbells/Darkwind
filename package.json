@@ -3,7 +3,7 @@
     "publisher": "BlakeDev",
     "displayName": "Darkwind",
     "description": "A dark Visual Studio Code theme inspired by Tailwind's color palette",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "engines": {
         "vscode": "^1.56.0"
@@ -18,7 +18,7 @@
         "tailwind",
         "syntax highlighting"
     ],
-    "homepage": "https://github.com/BlakeCampbells/Darkwind#readme",
+    "homepage": "https://blakecampbell.com/uses/#darkwind",
     "bugs": {
         "url": "https://github.com/BlakeCampbells/Darkwind/issues"
     },

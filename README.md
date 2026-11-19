@@ -2,6 +2,8 @@
 
 A dark theme for Visual Studio Code inspired by Tailwind's color palette. Darkwind pairs a deep gray background with colorful syntax highlighting, with readability in mind.
 
+[Created by Blake Campbell](https://blakecampbell.com/uses/#darkwind)
+
 [Install from the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=BlakeDev.darkwind)
 
 ## Installation

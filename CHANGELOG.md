@@ -2,6 +2,10 @@
 
 Notable changes to Darkwind are recorded here.
 
+## [1.0.4] - 2026-11-19
+
+- The README now credits Blake Campbell. The credit and the extension homepage both link to the Darkwind entry on his Uses page.
+
 ## [1.0.3] - 2026-11-14
 
 ### Changed
